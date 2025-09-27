@@ -1,4 +1,4 @@
-import Logo from "../assets/logo.png";
+import Logo from "../assets/Logo.png";
 function Footer(){
   return(
     <div className="w-[100%] md:h-[36vh] h-[21vh] mb-[77px] md:mb-[0px]">
