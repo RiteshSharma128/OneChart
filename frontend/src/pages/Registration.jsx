@@ -1,4 +1,4 @@
-import Logo from "../assets/logo.png";
+import Logo from "../assets/Logo.png";
 import { useNavigate } from "react-router-dom";
 import google from "../assets/google.png";
 import { IoEyeSharp } from "react-icons/io5";
