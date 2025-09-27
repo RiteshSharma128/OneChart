@@ -16,7 +16,7 @@ let app=express()
 app.use(express.json())
 app.use(cookieParser()) // cookies ko pass karane ke liye cookies ka use karate hai
 app.use(cors({
-origin:["http://localhost:5173","http://localhost:5174"],
+origin:["https://onechart-ritesh-sharma.onrender.com","http://localhost:5174"],
 credentials:true
 }))
 
