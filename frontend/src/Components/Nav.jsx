@@ -3,7 +3,7 @@
 
 
 import { useContext, useState } from "react";
-import logo from "../assets/Logo.png";
+import logo from "../assets/logo.png";
 import { CiSearch } from "react-icons/ci";
 import { FaRegUserCircle } from "react-icons/fa";
 import { FiShoppingCart } from "react-icons/fi";
