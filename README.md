@@ -36,7 +36,7 @@ A full-stack E-commerce platform where users can **browse products, add to cart,
 - **Authentication:** JWT (JSON Web Tokens)
 - **Payments:** Razorpay / Stripe
 - **File Uploads:** Multer
-- **Hosting:** Frontend (Vercel), Backend (Render / Heroku)
+
 
 ---
 
